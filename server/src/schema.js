@@ -18,3 +18,5 @@ const typDefs = gql`
 `;
 
 module.exports = typDefs;
+
+// starting point
